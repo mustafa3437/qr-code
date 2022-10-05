@@ -27,7 +27,7 @@ body
     font-weight: 700;
     text-align: center;
     width: 80%;
-    translate: 0 5px;
+    translate: 0 50px;
 }
 img
 {
@@ -45,6 +45,6 @@ img
     margin-bottom: 40px;
     font-family: 'Outfit', sans-serif;
     font-weight: 100;
-    translate: 0 -10px;
+    translate: 0 50px;
     color: rgba(0, 0, 0, .5);
 }

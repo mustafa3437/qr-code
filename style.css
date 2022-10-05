@@ -8,8 +8,8 @@ body
 }
 .con
 {
-    height: 450px;
-    width: 225px;
+    height: 480px;
+    width: 300px;
     top: 50%;
     left: 50%;
     background: white;
@@ -27,24 +27,25 @@ body
     font-weight: 700;
     text-align: center;
     width: 80%;
-    translate: 0 50px;
+    translate: 0 10px;
+    font-size: 20px;
 }
 img
 {
     margin-top: 5%;
     border-radius: 7px;
-    height: 200px;
+    height: 300px;
     width: 90%;
     
 }
 .note
 {
-    width: 85%;
-    font-size: 11px;
+    width: 70%;
+    font-size: 12px;
     text-align: center;
     margin-bottom: 40px;
     font-family: 'Outfit', sans-serif;
     font-weight: 100;
-    translate: 0 50px;
+    translate: 0 10px;
     color: rgba(0, 0, 0, .5);
 }
